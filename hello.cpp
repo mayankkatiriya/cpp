@@ -12,8 +12,6 @@ int main(){
 
 
 
-
-
      cout<<"hello"<<char(a)<<endl;
      cin>>a;
      cout<<"hello"<<a; 
