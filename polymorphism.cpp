@@ -9,7 +9,7 @@ using namespace std;
                     cout<<"perameter function call : "<<a<<endl;
                 }
                 void test(int a,int b){
-                    cout<<"adition aand b : "<<a+b<<endl;
+                    cout<<"adition a and b : "<<a+b<<endl;
                 }
   };
         int main(){
