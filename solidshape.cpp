@@ -5,23 +5,23 @@ class Volume
     public:
     Volume(int a)
     {
-        //square 
+       
         cout<<"Volume of square:"<<a*a*a<<"\n";
     }
     Volume(int a,int b,int c)
     {
-        //rectangle
+     
         cout<<"Volume of cuboid:"<<a*b*c<<"\n";
     }
     Volume(double a)
     {
-        //Sphere
+       
        float pi=3.14;
         cout<<"Volume of sphere:"<<1.33*pi*a*a*a<<"\n";
     }
     Volume(int a,int b)
     {
-        //cone
+        
        float pi=3.14;
         cout<<"Volume of cone:"<<0.33*pi*a*a*b;
     }
