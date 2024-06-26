@@ -5,7 +5,7 @@
         int a;
         int b;
 
-        public:
+        public: 
         void getdata(int a1,int b1){
             a=a1;
             b=b1;
