@@ -6,18 +6,18 @@ class demo
     void Volume(int a)
     {
        
-        cout<<"Volume of square:"<<a*a*a<<"\n";
+        cout<<"Volume of square:"<<a*a*a<<endl;
     }
     void Volume(int a,int b,int c)
     {
      
-        cout<<"Volume of cuboid:"<<a*b*c<<"\n";
+        cout<<"Volume of cuboid:"<<a*b*c<<endl;
     }
     void Volume(double a)
     {
        
        float pi=3.14;
-        cout<<"Volume of sphere:"<<1.33*pi*a*a*a<<"\n";
+        cout<<"Volume of sphere:"<<1.33*pi*a*a*a<<endl;
     }
     void Volume(int a,int b)
     {
