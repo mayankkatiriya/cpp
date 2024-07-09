@@ -4,6 +4,7 @@ using namespace std;
 class student
 {
 public:
+
     static int number;
 
     static void Desplay()
