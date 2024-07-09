@@ -5,6 +5,7 @@ class student
 {
 public:
 
+
     static int number;
 
     static void Desplay()
